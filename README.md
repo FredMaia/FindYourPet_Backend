@@ -60,7 +60,7 @@ npm install
 npm run dev
 ```
 
-*If you wanna test nodemailer routes, put your credentials at ./src/modules/Mailer.js
+*If you wanna test nodemailer routes, put your credentials at ./src/config/Mail.js
 
 ### Mobile app
 
